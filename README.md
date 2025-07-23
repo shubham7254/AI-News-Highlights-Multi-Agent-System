@@ -1,5 +1,4 @@
 # 📰 AI News Video Pipeline 🎥
-
 An autonomous multi-agent system that scrapes trending AI news, summarizes it, generates voiceovers, creates videos, and optionally uploads them to YouTube — all in one pipeline.
 
 ---
